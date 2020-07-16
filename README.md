@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome ! 
+
+Young system administrator with a passion for Python and Linux. 
 
 <!--
 **redat00/redat00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
