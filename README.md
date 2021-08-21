@@ -1,6 +1,13 @@
-### Welcome ! 
+### Hello ! 👋
 
-Young system administrator with a passion for Python and Linux. 
+I'm a french system engineer 🖥️ with a strong love 💛 for Python ! 
+
+## Projects
+
+ - [retodo](https://github.com/redat00/retodo) : Simple CLI application to help manage your time ! ⌛
+ - [formulapy](https://github.com/redat00/formulapy) : Formula 1 result, but in you CLI. 🏎️
+ - [redat-blog](https://github.com/redat00/redat-blog) : My personal blog. 💁
+ - [rpyshort](https://github.com/redat00/rpyshort) : A really simple application to create shortlink. 🔗
 
 <!--
 **redat00/redat00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
