@@ -5,7 +5,7 @@ I'm a french system engineer 🖥️ with a strong love 💛 for Python !
 ## Projects
 
  - [retodo](https://github.com/redat00/retodo) : Simple CLI application to help manage your time ! ⌛
- - [formulapy](https://github.com/redat00/formulapy) : Formula 1 result, but in you CLI. 🏎️
+ - [formulapy](https://github.com/redat00/formulapy) : Formula 1 results, but in you CLI. 🏎️
  - [redat-blog](https://github.com/redat00/redat-blog) : My personal blog. 💁
  - [rpyshort](https://github.com/redat00/rpyshort) : A really simple application to create shortlink. 🔗
 
