@@ -1,6 +1,6 @@
 # Hello ! 👋
 
-I'm a french system engineer 🖥️ with a strong love 💛 for Python ! 
+I'm a french devops engineer 🖥️ with a strong love 💛 for Python ! 
 
 ## Projects
 
