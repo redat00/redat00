@@ -1,5 +1,7 @@
 # Hello ! 👋
 
+![stand with Ukraine](https://badgen.net/badge/stand%20with/UKRAINE/?color=0057B8&labelColor=FFD700)
+
 I'm a french devops engineer 🖥️ with a strong love 💛 for Python ! 
 
 ## Projects
