@@ -6,6 +6,7 @@ I'm a french devops engineer 🖥️ with a strong love 💛 for Python !
 
 ## Projects
 
+ - [peekl](https://github.com/redat00/peekl) : HTTP and certificate monitoring as simple as it gets (still a WIP). 🔍
  - [retodo](https://github.com/redat00/retodo) : Simple CLI application to help manage your time ! ⌛
  - [formulapy](https://github.com/redat00/formulapy) : Formula 1 results, but in you CLI. 🏎️
  - [rpyshort](https://github.com/redat00/rpyshort) : A really simple application to create shortlink. 🔗
